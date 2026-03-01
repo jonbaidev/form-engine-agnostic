@@ -1,0 +1,20 @@
+# Node
+node_modules/
+dist/
+.pnpm-store/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Turbo
+.turbo/
+
+# Vite
+apps/*/dist
+
+# TypeScript
+*.tsbuildinfo
